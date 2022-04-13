@@ -61,4 +61,14 @@ form {
     width: 25%;
     padding: 20px;
 }
-
+a:link {
+    color: white;
+}
+a:visited {
+    color: orange;
+    background-color:rgba(134, 147, 145, 0.5);
+}
+a:hover {
+    color:crimson;
+    font-size:large;
+}
